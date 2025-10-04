@@ -1,15 +1,17 @@
 ---
 layout: post
-title: Two-Level System
-subtitle: The canonical problem in Quantum Optics is disccused in great detail.
+title: Beyond the Rotating Wave Approximation with Floquet Theory
 tags: [Quantum, Optics]
 comments: true
 mathjax: true
-author: Omar Mashaal
 ---
 
 {: .box-success}
-Here I mention the structure of the post.
+We will work out a stongly driven qubit system where the rotating wave approximation (RWA) doesnt hold. The sructure will be as follows
+- Define the problem.
+- Limitation of the RWA.
+- What is Floquet theory?
+- Solving the problem.
 
 ## Problem setup
 
