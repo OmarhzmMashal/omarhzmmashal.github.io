@@ -8,18 +8,18 @@ permalink: /resume/
 
 - **Purdue University**, West Lafayette, IN, USA  
   *Ph.D. in Electrical and Computer Engineering (Theoratical Quantum Optics)*  
-  Jan 2024 – Present
-  CGPA: 4.00/4.00  
+  Spring 2025 – Present
+  *CGPA: 4.00/4.00*  
   *Courses:* Electromagnetic Field Theory, Quantum Optics, Intorduction to Lasers
   
 - **Arab Academy for Science and Technology**, Alexandria, Egypt  
   *Bachelor in Computer Engineering*  
   Sep 2016 – Feb 2021  
-  *Courses:* Numerical Methods, Computing Algorithms, Artificial Intelligence, Computer Graphics, Data Security.
+  *Courses:* Numerical Methods, Algorithms, Artificial Intelligence, Computer Graphics, Data Security.
 
 ---
 
-## Experience
+## Work Experience
 
 - **Purdue University**, West Lafayette, IN, USA  
   *Research Assistant*  
