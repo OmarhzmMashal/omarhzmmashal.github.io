@@ -10,4 +10,4 @@ PhD Student (2025–) in Quantum Optics at Purdue (ECE Department). Intuition-dr
 
 I work with Hadiseh Alaeian and Valentin Walther, focusing on excitons dynamics in a semiconductor (Cuprous oxide) under strong electromagnetic fields; Modeling the nonlinear optical response via dipolar interaction under strong microwave field.
 
-Current Interest: The limitations of Floquet theory in many-body quantum open quantum systems.
+Current Interest: The limitations of Floquet theory in many-body open quantum systems.
