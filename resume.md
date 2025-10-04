@@ -4,6 +4,8 @@ title: "Resume"
 permalink: /resume/
 ---
 
+---
+
 ## Education
 
 - **Purdue University**, West Lafayette, IN, USA  
