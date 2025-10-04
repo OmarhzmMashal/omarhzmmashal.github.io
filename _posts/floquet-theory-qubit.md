@@ -7,7 +7,8 @@ mathjax: true
 ---
 
 
-We will work out a stongly driven qubit system where the rotating wave approximation (RWA) doesnt hold. The sructure will be as follows
+We will study a strongly driven qubit system where the rotating wave approximation (RWA) no longer holds. The structure will be as follows:
+
 1) Define the problem.
 2) Limitation of the RWA.
 3) What is Floquet theory?
