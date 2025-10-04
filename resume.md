@@ -7,7 +7,7 @@ permalink: /resume/
 ## Education
 
 - **Purdue University**, West Lafayette, IN, USA  
-  *Ph.D. in Electrical and Computer Engineering*  
+  *Ph.D. in Electrical and Computer Engineering (Theoratical Quantum Optics)*  
   Jan 2024 – Present
   CGPA: 4.00/4.00  
   *Courses:* Electromagnetic Field Theory, Quantum Optics, Intorduction to Lasers
