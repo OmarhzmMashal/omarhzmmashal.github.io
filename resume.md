@@ -9,7 +9,7 @@ permalink: /resume/
 - **Purdue University**, West Lafayette, IN, USA  
   *Ph.D. in Electrical and Computer Engineering (Theoratical Quantum Optics)*  
   *Jan 2025 – Present*  
-  CGPA: 4.00/4.00  
+  CGPA: 4.00/4.00
   
 - **Arab Academy for Science and Technology**, Alexandria, Egypt  
   *Bachelor in Computer Engineering*  
