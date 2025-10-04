@@ -20,8 +20,8 @@ title: ""
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Notes: "Notes"
+  About Me: "index"
+  Notes: "notes"
 
 ################
 # --- Logo --- #
