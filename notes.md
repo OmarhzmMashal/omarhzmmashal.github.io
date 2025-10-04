@@ -1,5 +1,7 @@
 ---
 layout: home
-title: "Notes"
+title: ""
 permalink: /notes/
 ---
+
+## Notes
