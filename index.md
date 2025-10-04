@@ -4,7 +4,7 @@ title: ""
 permalink: /
 ---
 
-### About me
+## About me
 
 PhD Student (2025–) in Quantum Optics at Purdue (ECE Department). Intuition-driven autodidact aiming to ask the right questions, I am interested in the history of science, specifically in how past scientific questions are reformulated into the questions we ask today.
 
