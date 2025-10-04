@@ -1,10 +1,8 @@
 ---
 layout: page
-title: ""
+title: "Welcome"
 permalink: /
 ---
-
-## Welcome!
 
 <p>My name is <strong>Omar H. Mashaal</strong>, I am a PhD Student (2025–) in <strong>Theoretical Quantum Optics at Purdue University</strong>. Intuition-driven autodidact aiming to ask the right questions, I am interested in the history of science, specifically in how past scientific questions are reformulated into the questions we ask today.</p>
 
