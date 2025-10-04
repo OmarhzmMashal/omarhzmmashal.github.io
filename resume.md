@@ -10,8 +10,8 @@ permalink: /resume/
   *Ph.D. in Electrical and Computer Engineering*  
   Jan 2024 – Present
   CGPA: 4.00/4.00  
-
-
+  *Courses:* Electromagnetic Field Theory, Quantum Optics, Intorduction to Lasers
+  
 - **Arab Academy for Science and Technology**, Alexandria, Egypt  
   *Bachelor in Computer Engineering*  
   Sep 2016 – Feb 2021  
