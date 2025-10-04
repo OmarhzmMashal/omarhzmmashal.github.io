@@ -10,12 +10,10 @@ permalink: /resume/
   *Ph.D. in Electrical and Computer Engineering (Theoratical Quantum Optics)*  
   Spring 2025 – Present
   *CGPA: 4.00/4.00*  
-  *Courses:* Electromagnetic Field Theory, Quantum Optics, Intorduction to Lasers
   
 - **Arab Academy for Science and Technology**, Alexandria, Egypt  
   *Bachelor in Computer Engineering*  
   Sep 2016 – Feb 2021  
-  *Courses:* Numerical Methods, Algorithms, Artificial Intelligence, Computer Graphics, Data Security.
 
 ---
 
@@ -24,7 +22,7 @@ permalink: /resume/
 - **Purdue University**, West Lafayette, IN, USA  
   *Research Assistant*  
   Spring 2025 – Present  
-  - Research Area: Exciton dynamics under the supervision of Prof. Hadiseh Alaeian and Prof. Valentin Walther.
+  - Supervisors: Prof. Hadiseh Alaeian and Prof. Valentin Walther.
 
 - **Zewail City’s University of Science and Technology**, Cairo, Egypt  
   *Teaching Assistant, Physics of Earth and Universe Program*  
