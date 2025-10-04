@@ -51,25 +51,6 @@ permalink: /resume/
 
 ---
 
-## Relevant Computer Skills
-
-- **Languages:** Python, Java, SQL, Mathematica, Git, LaTeX  
-- **Frameworks/Libraries:** Numpy, Pandas, Scipy, Scikit-learn, PyTorch
-
----
-
-## Sample Projects
-
-- **Bachelor Project (A+):** *Multi-Modal Social Robot with Augmented Reality*  
-  - Integrated NLP, Computer Vision, and Expert Systems into an OOP architecture for reusable social robot development.  
-
-- **Physics Projects:**  
-  - Analyzing physical systems (Classical and Quantum) using Mathematica and Python.  
-  - Solving differential equations with Physics-Informed Neural Networks (PINN).  
-  - **riemannPy:** A Python package for calculating the Riemann curvature tensor.
-
----
-
 ## Languages
 
 - **Arabic:** Native  
