@@ -8,7 +8,9 @@ permalink: /resume/
 
 - **Purdue University**, West Lafayette, IN, USA  
   *Ph.D. in Electrical and Computer Engineering*  
-  Jan 2024 – Present  
+  Jan 2024 – Present
+  CGPA: 4.00/4.00  
+
 
 - **Arab Academy for Science and Technology**, Alexandria, Egypt  
   *Bachelor in Computer Engineering*  
@@ -21,8 +23,8 @@ permalink: /resume/
 
 - **Purdue University**, West Lafayette, IN, USA  
   *Research Assistant*  
-  Jan 2024 – Present  
-  - Research Area: Rydberg exciton dynamics under the supervision of Prof. Hadiseh Alaeian and Prof. Valentin Walther.
+  Spring 2025 – Present  
+  - Research Area: Exciton dynamics under the supervision of Prof. Hadiseh Alaeian and Prof. Valentin Walther.
 
 - **Zewail City’s University of Science and Technology**, Cairo, Egypt  
   *Teaching Assistant, Physics of Earth and Universe Program*  
