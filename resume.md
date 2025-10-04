@@ -8,8 +8,8 @@ permalink: /resume/
 
 - **Purdue University**, West Lafayette, IN, USA  
   *Ph.D. in Electrical and Computer Engineering (Theoratical Quantum Optics)*  
-  Spring 2025 – Present
-  *CGPA: 4.00/4.00*  
+  *Jan 2025 – Present*
+  CGPA: 4.00/4.00  
   
 - **Arab Academy for Science and Technology**, Alexandria, Egypt  
   *Bachelor in Computer Engineering*  
@@ -21,7 +21,7 @@ permalink: /resume/
 
 - **Purdue University**, West Lafayette, IN, USA  
   *Research Assistant*  
-  Spring 2025 – Present  
+  Jan 2025 – Present  
   - Supervisors: Prof. Hadiseh Alaeian and Prof. Valentin Walther.
 
 - **Zewail City’s University of Science and Technology**, Cairo, Egypt  
