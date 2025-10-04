@@ -6,7 +6,7 @@ permalink: /resume/
 
 ---
 
-## Education
+## 📚︎ Education
 
 - **Purdue University**, West Lafayette, IN, USA  
   *Ph.D. in Electrical and Computer Engineering (Theoratical Quantum Optics)*  
@@ -19,7 +19,7 @@ permalink: /resume/
 
 ---
 
-## Work Experience
+## 💼︎ Work Experience
 
 - **Purdue University**, West Lafayette, IN, USA  
   *Research Assistant*  
@@ -53,7 +53,7 @@ permalink: /resume/
 
 ---
 
-## Languages
+## 🗣︎ Languages
 
 - **Arabic:** Native  
 - **English:** IELTS (7), Purdue’s OEPT (55)
