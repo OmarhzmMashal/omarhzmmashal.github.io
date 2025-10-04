@@ -1124,3 +1124,7 @@ pre {
     display: inline-block;
   }
 }
+
+p {
+  text-align: justify;
+}
