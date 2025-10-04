@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Resume 📄︎"
+title: "Resume 📃︎"
 permalink: /resume/
 ---
 
 ---
 
-## 📚︎ Education
+## 🎓︎ Education
 
 - **Purdue University**, West Lafayette, IN, USA  
   *Ph.D. in Electrical and Computer Engineering (Theoratical Quantum Optics)*  
