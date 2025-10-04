@@ -6,12 +6,12 @@ comments: true
 mathjax: true
 ---
 
-{: .box-success}
+
 We will work out a stongly driven qubit system where the rotating wave approximation (RWA) doesnt hold. The sructure will be as follows
-- Define the problem.
-- Limitation of the RWA.
-- What is Floquet theory?
-- Solving the problem.
+1) Define the problem.
+2) Limitation of the RWA.
+3) What is Floquet theory?
+4) Solving the problem.
 
 ## Problem setup
 
