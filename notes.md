@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Notes 📝︎"
+title: "Notes"
 permalink: /notes/
 ---
 
