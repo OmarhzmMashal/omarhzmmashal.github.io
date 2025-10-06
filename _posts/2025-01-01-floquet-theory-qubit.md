@@ -13,3 +13,6 @@ We will study a strongly driven qubit system where the rotating wave approximati
 2) Limitation of the RWA.  
 3) What is Floquet theory?  
 4) Solving the problem.  
+
+Testing latex  
+$$ \hat{H}= \frac{\hat{p}^2}{2m} $$
